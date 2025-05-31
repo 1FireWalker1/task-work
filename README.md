@@ -1,5 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/JppqoIFx)
 
+[![Version](https://badge.fury.io/gh/telegramdesktop%2Ftdesktop.svg)](https://github.com/1FireWalker1/task-work/releases)
+[![Build Status](https://github.com/1FireWalker1/task-work/workflows/example./badge.svg)](https://github.com/1FireWalker1/task-work/actions)
+
 ## Описание задачи
 
 В данном репозитории содержится код, решающий следующую задачу: сгруппировать файлы по исполнителям, исполнитель находится в названии файла в квадратных скобках. Для файлов без исполнителя, поместить их в папку с названием VA. При этом в названии папки должно быть кол-во треков.
