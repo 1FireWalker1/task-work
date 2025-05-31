@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/JppqoIFx)
 
-[![Version](https://badge.fury.io/gh/telegramdesktop%2Ftdesktop.svg)](https://github.com/1FireWalker1/task-work/releases)
-[![Build Status](https://github.com/1FireWalker1/task-work/workflows/example./badge.svg)](https://github.com/1FireWalker1/task-work/actions)
+[![GitHub version](https://badge.fury.io/gh/1FireWalker1%2Ftask-work.svg)](https://badge.fury.io/gh/1FireWalker1%2Ftask-work)
+[![Build Status](https://github.com/1FireWalker1/task-work/workflows/Task./badge.svg)](https://github.com/1FireWalker1/task-work/actions)
 
 ## Описание задачи
 
