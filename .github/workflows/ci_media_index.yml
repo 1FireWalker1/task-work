@@ -1,0 +1,12 @@
+name: ci_media_index
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Setup
+        run: pip install uv && uv sync
+
+      - name: Run Tests
+        run: uv run pytest
