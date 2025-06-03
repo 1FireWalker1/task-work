@@ -22,3 +22,6 @@ jobs:
 
       - name: Запуск автотестов
         run: uv run pytest -v --cov-report term-missing --cov=src --cov-branch
+
+      - name: experiment
+        run: tree tests/cases
